@@ -1,4 +1,4 @@
-package id.ac.ub.restapi;
+package id.ac.ub.restapi.Model;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

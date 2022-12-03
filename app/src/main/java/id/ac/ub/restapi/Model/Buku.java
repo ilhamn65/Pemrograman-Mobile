@@ -1,4 +1,4 @@
-package id.ac.ub.restapi;
+package id.ac.ub.restapi.Model;
 
 public class Buku {
     private String id;

@@ -1,4 +1,4 @@
-package id.ac.ub.restapi;
+package id.ac.ub.restapi.Adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,6 +10,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
+
+import id.ac.ub.restapi.Model.Buku;
+import id.ac.ub.restapi.R;
 
 public class BukuAdapter extends RecyclerView.Adapter<BukuAdapter.ViewHolder> {
     LayoutInflater inflatter;
